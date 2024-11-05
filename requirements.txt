@@ -1,0 +1,6 @@
+pandas>=1.0
+plotly>=5.0
+requests>=2.0
+shiny>=0.2.0  # or latest version, since shiny for Python is relatively new
+shinywidgets>=0.1.0  # if available
+matplotlib>=3.0
